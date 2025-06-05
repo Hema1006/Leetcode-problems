@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Hema1006/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Hema1006/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/Hema1006/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0898-transpose-matrix) |
 ## Dynamic Programming
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Hema1006/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/Hema1006/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Hema1006/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0898-transpose-matrix) |
 ## Breadth-First Search
 |  |
