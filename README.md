@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hema1006/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0283-move-zeroes](https://github.com/Hema1006/Leetcode-problems/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hema1006/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Hema1006/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Hema1006/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Hema1006/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0542-01-matrix) |
 ## Dynamic Programming
