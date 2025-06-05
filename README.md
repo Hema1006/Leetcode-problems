@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Hema1006/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0898-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0898-transpose-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
