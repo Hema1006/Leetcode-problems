@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Hema1006/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hema1006/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Hema1006/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hema1006/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Hema1006/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Hema1006/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hema1006/Leetcode-problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Hema1006/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Hema1006/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hema1006/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hema1006/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Hema1006/Leetcode-problems/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Hema1006/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hema1006/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hema1006/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## Prefix Sum
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hema1006/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Hema1006/Leetcode-problems/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -111,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Hema1006/Leetcode-problems/tree/master/0007-reverse-integer) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Hema1006/Leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
