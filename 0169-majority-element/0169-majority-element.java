@@ -5,9 +5,8 @@ class Solution {
         for(int i=0;i<nums.length;i++){
              if(count==0){
                 maj=nums[i];
-             }
-             
-             count+=(nums[i]==maj )?1 :-1;
+             }   
+             count+=(nums[i]==maj)?1 :-1;
         }
         return maj;
 }
