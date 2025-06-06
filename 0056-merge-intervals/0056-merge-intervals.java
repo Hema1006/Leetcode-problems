@@ -1,6 +1,6 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-       if (intervals.length == 0) {
+        if (intervals.length == 0) {
             return new int[0][];
         }
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
@@ -9,7 +9,7 @@ class Solution {
             if (a.isEmpty() || a.get(a.size() - 1)[1] < intervals[i][0]) {
                 a.add(intervals[i]);
             } else {
-                a.get(a.size() - 1)[1] = Math.max(a.get(a.size() - 1)[1], intervals[i][1]);
+                a.get(a.size() - 1)[1] = Math.max(a.get(a.size() - 1)[1],intervals[i][1]);
             }
         }
         return a.toArray(new int[a.size()][]);
