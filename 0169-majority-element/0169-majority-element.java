@@ -6,13 +6,9 @@ class Solution {
              if(count==0){
                 maj=nums[i];
              }
-              if(nums[i]==maj){
-                count=count+1;
-             }
-             else{
-                count=count-1;
-             }
+             
+             count+=(nums[i]==maj )?1 :-1;
         }
         return maj;
-        }
+}
 }
