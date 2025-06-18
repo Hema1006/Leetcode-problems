@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Hema1006/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Hema1006/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hema1006/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/Hema1006/Leetcode-problems/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/Hema1006/Leetcode-problems/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Hema1006/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hema1006/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hema1006/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Hema1006/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0460-lfu-cache](https://github.com/Hema1006/Leetcode-problems/tree/master/0460-lfu-cache) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Hema1006/Leetcode-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Hema1006/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Hema1006/Leetcode-problems/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/Hema1006/Leetcode-problems/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hema1006/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Hema1006/Leetcode-problems/tree/master/0739-daily-temperatures) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Hema1006/Leetcode-problems/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
