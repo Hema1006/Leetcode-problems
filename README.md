@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Hema1006/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/Hema1006/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0542-01-matrix) |
+| [0739-daily-temperatures](https://github.com/Hema1006/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0898-transpose-matrix) |
 ## Dynamic Programming
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Hema1006/Leetcode-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Hema1006/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Hema1006/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Hema1006/Leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Hema1006/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Hema1006/Leetcode-problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
