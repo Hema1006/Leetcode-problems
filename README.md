@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hema1006/Leetcode-problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0542-01-matrix) |
+| [0744-network-delay-time](https://github.com/Hema1006/Leetcode-problems/tree/master/0744-network-delay-time) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Hema1006/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hema1006/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0744-network-delay-time](https://github.com/Hema1006/Leetcode-problems/tree/master/0744-network-delay-time) |
 ## Graph
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hema1006/Leetcode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0744-network-delay-time](https://github.com/Hema1006/Leetcode-problems/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Hema1006/Leetcode-problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Hema1006/Leetcode-problems/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Hema1006/Leetcode-problems/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Hema1006/Leetcode-problems/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
